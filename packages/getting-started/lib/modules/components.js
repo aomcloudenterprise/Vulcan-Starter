@@ -1,8 +1,11 @@
-/*
+import { registerComponent } from 'meteor/vulcan:core'
 
-Steps Components
-
-*/
+const step3 = props => {
+  return (
+    <div>/* component code */</div>
+  )
+}
+registerComponent('steps',step3);/*
 
 import '../components/steps/Step.jsx';
 import '../components/steps/Step0.jsx';
