@@ -2,7 +2,7 @@
   "name": "Vulcan",
   "version": "1.11.2",
   "engines": {
-    "npm": "^3.0"
+    "npm": "6.2"
   },
   "scripts": {
     "prestart": "node .vulcan/prestart_vulcan.js",
