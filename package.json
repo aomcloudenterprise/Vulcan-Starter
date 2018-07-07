@@ -94,6 +94,7 @@
   },
   "private": true,
   "devDependencies": {
+    "autoprefixer": "8.6.5",
     "babel-eslint": "^7.0.0",
     "eslint": "^3.10.1",
     "eslint-config-airbnb": "^13.0.0",
